@@ -1,1 +1,1 @@
-# GPS-Treasure-Hunt
+# Python Sample
